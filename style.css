@@ -1,0 +1,41 @@
+body {
+    margin-left: 21vw;
+    margin-right: 21vw;
+}
+
+header {
+    background-color:darkred;
+    color: white;
+    text-align: center;
+}
+
+img.little {
+    border: 2px dashed black;
+}
+
+section {
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    margin-right: 1vw;
+}
+
+span.bold {
+    font-weight: 700;
+}
+
+span.blue {
+    color: blue;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    font-size: 20px;
+}
+
