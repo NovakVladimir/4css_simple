@@ -1,12 +1,9 @@
-body {
-    margin-left: 21vw;
-    margin-right: 21vw;
-}
 
 header {
     background-color:darkred;
-    color: white;
     text-align: center;
+    color: white;
+    
 }
 
 img.little {
@@ -16,13 +13,10 @@ img.little {
 section {
     text-align: center;
 }
+
 p {
     font-size: 18px;
     margin-right: 1vw;
-}
-
-span.bold {
-    font-weight: 700;
 }
 
 span.blue {
@@ -37,5 +31,9 @@ footer {
 
 footer p {
     font-size: 20px;
+}
+
+div {
+    text-align: center;
 }
 
